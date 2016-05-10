@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMchat", "COMchat.csproj", "{8C372DE1-9466-4F85-B673-82EA79E469BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		1|Any CPU = 1|Any CPU
+		2|Any CPU = 2|Any CPU
+		3|Any CPU = 3|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.1|Any CPU.ActiveCfg = 1|Any CPU
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.1|Any CPU.Build.0 = 1|Any CPU
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.2|Any CPU.ActiveCfg = 2|Any CPU
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.2|Any CPU.Build.0 = 2|Any CPU
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.3|Any CPU.ActiveCfg = 3|Any CPU
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.3|Any CPU.Build.0 = 3|Any CPU
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C372DE1-9466-4F85-B673-82EA79E469BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
